@@ -35,4 +35,5 @@ jobs:
         uses: actions/upload-artifact@v4
         with:
           name: SecretChat-APK
-          path: build/app/outputs/flutter-apk/app-release.apkw
+          path: build/app/outputs/flutter-apk/apwp-release.apk
+        
